@@ -2,7 +2,7 @@
 
 CustomDrawer
 
-
+![image](https://github.com/chenjinguang/FlutterCustomDrawer/blob/master/9c90e788839c769405bfe29adb764558.gif)
 
 ## Getting Started
 
